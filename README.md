@@ -7,7 +7,7 @@ bitcoin:
 
 website: https://poloniex.com/
 chart: https://poloniex.com/exchange#usdt_btc
-api doc: https://poloniex.com/exchange#usdt_btc
+api doc: https://poloniex.com/support/api/
 ticker: https://poloniex.com/public?command=returnTicker
 
 #### kraken
@@ -63,5 +63,11 @@ ticker: https://api.bithumb.com/public/ticker/BTC
 
 website: https://www.korbit.co.kr
 trading: https://www.korbit.co.kr/market/btc_krw
+
+#### localbitcoin
+
+website: https://localbitcoins.com
+api doc: https://localbitcoins.com/api-docs
+trading: https://localbitcoins.com/bitcoinaverage/ticker-all-currencies/
 
 汇率 https://finance.yahoo.com/webservice/v1/symbols/allcurrencies/quote?format=json
